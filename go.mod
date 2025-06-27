@@ -1,4 +1,4 @@
-module githhub.com/boostgo/contextx
+module github.com/boostgo/contextx
 
 go 1.23.0
 
